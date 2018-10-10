@@ -34,7 +34,7 @@ Result:
   "more": false
 }
 
-*delete from table:
+* delete from table:
 ** cle push action tamtamtamtam rmmessage '{"username":"demdemdemdem"}' -p demdemdemdem
 ** cle push action tamtamtamtam rmmessage '{"username":"tamtamtamtam"}' -p tamtamtamtam
 
